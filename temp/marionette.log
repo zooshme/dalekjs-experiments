@@ -1,0 +1,8 @@
+1411656719205	Marionette	INFO	MarionetteComponent loaded
+1411656719282	Marionette	INFO	marionette enabled via command-line
+1411656719285	Marionette	INFO	marionette-server.js loaded
+1411656719300	Marionette	INFO	Listening on port 2828
+
+1411656719300	Marionette	INFO	Marionette server ready
+1411656719331	Marionette	DEBUG	accepted connection on 127.0.0.1:58265
+1411656719337	Marionette	DEBUG	accepted connection on 127.0.0.1:58267
